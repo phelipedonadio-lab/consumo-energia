@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🔌⚡ Calculadora de Consumo e Custo Estimado de Energia Elétrica
  
 ![Python](https://skillicons.dev/icons?i=python) ![VS Code](https://skillicons.dev/icons?i=vscode)
